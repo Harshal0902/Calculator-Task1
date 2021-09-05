@@ -1,6 +1,6 @@
 # Calculator-Task1
 
-Week 1 - Challenge Web Dev Track
+Week 1 - Challenge Web Dev Track  
 A simple calculator with light and dark mode toggle switch
 
 ## 💻 Tech Stack

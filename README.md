@@ -3,6 +3,10 @@
 Week 1 - Challenge Web Dev Track
 A simple calculator with light and dark mode toggle switch
 
+## Live demo
+
+The site is deployed through Netlify, which you can view over [here](https://claculatorhr.netlify.app/)  
+
 ## 💻 Tech Stack
 
 - HTML
